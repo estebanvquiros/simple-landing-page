@@ -120,15 +120,16 @@ a {
 }
 
 .card-image {
-    width: 90%;
     border: 5px solid #3882F6;
     border-radius: 10px;
+    width: 100%;
 }
 
 .card-text {
     text-align: center;
     font-weight: 300;
     font-size: 14px;
+    width: 95%;
 }
 
 .quote {
