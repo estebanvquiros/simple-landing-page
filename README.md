@@ -13,3 +13,6 @@ By completing this project, I will have:
 - Used the box model for layout and spacing.
 - Differentiated between block and inline elements.
 - Implemented Flexbox for alignment and responsiveness.
+
+## 📸 Image Credits  
+The images used in this project were sourced from [Pexels](https://www.pexels.com/). All images are free to use under the Pexels license.  
