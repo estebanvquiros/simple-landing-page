@@ -16,7 +16,6 @@ a {
 
 .header {
     background-color: #1F2937;
-    color: #F9FAF8;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -29,11 +28,13 @@ a {
 }
 
 .logo {
+    color: #F9FAF8;
     font-size: 24px;
     font-weight: 800;
 }
 
 .links {
+    color: #E5E7EB;
     font-size: 18px;
 }
 
