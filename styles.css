@@ -151,3 +151,56 @@ a {
     text-align: right;
     margin-right: 40px;
 }
+
+.invitation {
+    padding: 100px 17%;
+}
+
+.invitation-container {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 40px 100px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    gap: 50px;
+}
+
+.invitation-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 70%;
+}
+
+.invitation-header {
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.invitation-text {
+    font-size: 14px;
+}
+
+.invitation-button {
+    background-color: #3882F6;
+    padding: 15px 35px;
+    border: 2px solid #F9FAF8;
+    border-radius: 7px;
+    color: #F9FAF8;
+    font-size: 14px;
+    font-weight: 800;
+    min-width: 150px;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px 17%;
+    color: #F9FAF8;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 800;
+}
